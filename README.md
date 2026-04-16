@@ -9,5 +9,5 @@ This Repository contains basic python programs:
 
 -Functions
 
-I wrote these programs as part of my pratice to understand Python basics.
+I wrote these programs as part of my practice to understand Python basics.
 
