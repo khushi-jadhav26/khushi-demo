@@ -4,9 +4,9 @@ def guests_list():
     print("welcome!")
 guests_list()    
 
-def guests_list(username):
+def student_list(username):
     print(f" \n {username.title()},welcome!")
-guests_list('khushi')   
+student_list('khushi')   
 
 def favourite_book(name,type):
     print(f"\n{name.title()} is my favourite {type} book!")
