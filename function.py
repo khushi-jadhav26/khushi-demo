@@ -1,4 +1,5 @@
-#single function
+# This program shows how to use functions
+
 def guests_list():
     print("welcome!")
 guests_list()    
